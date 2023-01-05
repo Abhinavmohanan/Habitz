@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Flutter Habit Tracker and ToDo App
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
